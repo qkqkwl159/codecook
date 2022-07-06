@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/codecook/static/css/main.073c9b0a.css",
+    "main.js": "/codecook/static/js/main.8429c708.js",
+    "static/js/787.3b3607e9.chunk.js": "/codecook/static/js/787.3b3607e9.chunk.js",
+    "static/media/logo.svg": "/codecook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/codecook/index.html",
+    "main.073c9b0a.css.map": "/codecook/static/css/main.073c9b0a.css.map",
+    "main.8429c708.js.map": "/codecook/static/js/main.8429c708.js.map",
+    "787.3b3607e9.chunk.js.map": "/codecook/static/js/787.3b3607e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8429c708.js"
+  ]
+}
