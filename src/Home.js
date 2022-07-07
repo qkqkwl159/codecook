@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import Todo from './Todo';
+import Todo from './todoList/Todo';
 import myimg from './my_profile.jpg';
 
 
@@ -17,7 +17,7 @@ function Home() {
                     src={myimg}
                     alt=''/>
                     <br></br>
-                    <span className='profile_name'  hieght='10px'>📌 Kim HuiJun</span>
+                    <span className='profile_name'  >📌 Kim HuiJun</span>
                     <br></br>
                     <span className='profile_major'>💻 Major : Computer Engineering</span>
                     <br></br>
