@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codecook/static/css/main.073c9b0a.css",
-    "main.js": "/codecook/static/js/main.8429c708.js",
+    "main.css": "/codecook/static/css/main.b162c53b.css",
+    "main.js": "/codecook/static/js/main.783af4ea.js",
     "static/js/787.3b3607e9.chunk.js": "/codecook/static/js/787.3b3607e9.chunk.js",
-    "static/media/logo.svg": "/codecook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/my_profile.jpg": "/codecook/static/media/my_profile.7e1700168263d66c1136.jpg",
     "index.html": "/codecook/index.html",
-    "main.073c9b0a.css.map": "/codecook/static/css/main.073c9b0a.css.map",
-    "main.8429c708.js.map": "/codecook/static/js/main.8429c708.js.map",
+    "main.b162c53b.css.map": "/codecook/static/css/main.b162c53b.css.map",
+    "main.783af4ea.js.map": "/codecook/static/js/main.783af4ea.js.map",
     "787.3b3607e9.chunk.js.map": "/codecook/static/js/787.3b3607e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8429c708.js"
+    "static/css/main.b162c53b.css",
+    "static/js/main.783af4ea.js"
   ]
 }
