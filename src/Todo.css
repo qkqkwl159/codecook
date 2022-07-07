@@ -1,0 +1,11 @@
+.todo_items{
+    display: contents;
+}
+.items{
+
+    display: block;
+    margin:2px;
+
+    background-color: transparent;
+
+}

@@ -1,4 +1,5 @@
 * {
+  margin: 0px;
   background: repeating-linear-gradient(rgb(255, 255, 240), #fffff0 20px, #000 21px);
 
 }
@@ -10,28 +11,40 @@
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 900px;
+  width: 600px;
   height: auto;
   box-shadow: 20px 10px 10px rgb(156, 152, 152);
   border-radius: 3%;
 }
 
-.home_todo{
+.home_Todo{
+
+  align-items: center;
+  text-align: center;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: auto;
+  box-shadow: 20px 10px 10px rgb(156, 152, 152);
+  border-radius: 3%;
+}
+
+.home_projects{
 
   align-items: center;
   text-align: center;
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 900px;
+  width: 600px;
   height: auto;
   box-shadow: 20px 10px 10px rgb(156, 152, 152);
   border-radius: 3%;
 }
-
-
 .home_img{
   
+  margin-top:20px;
   object-fit: contain;
   width: 400px;
   border-radius: 70%;
@@ -40,20 +53,27 @@
 
 .profile_name{
 
-  margin: 5px;
+  display: inline-block;
+  margin:3px;
   font-weight: bold;
 
 }
 
+.span{
+  display: block;
+}
 .profile_major{
-  margin: 5px;
-  font-weight: 300;
 
+  display: inline-block;
+  margin: 18px;
+  font-weight: 300;
 }
 
 .profile_introduce{
 
-  margin: 5px;
+  display: contents;
+  text-decoration: underline;
+  margin:1px;
   font-weight: 150;
 
 }
