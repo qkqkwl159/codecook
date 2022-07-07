@@ -25,11 +25,14 @@ function Home() {
                         I want to experience many things and make them.<br/>
                         I'll put the records here and Passion moves me<br/>
                     </div>
-
-                    
                 </div>
 
-            
+                <div className='home_todo'>
+                    <h1>TO_DO__</h1>
+                </div>
+                <div className='home_projects'>
+                    <h1>PROJECTS__</h1>
+                </div>
             </div>
         </div>
     );
