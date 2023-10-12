@@ -22,7 +22,7 @@ function Home() {
                     <span className='profile_major'>💻 Major : Computer Engineering</span>
                     <br></br>
                     <span className="profile_introduce">
-                        I am a third year student in computer engineering<br/>
+                        I am a student in computer engineering<br/>
                         I want to experience many things and make them.<br/>
                         I'll put the records here and Passion moves me<br/>
                     </span>
