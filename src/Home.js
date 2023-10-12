@@ -33,6 +33,11 @@ function Home() {
                 </div>
                 <div className='home_projects'>
                     <h1>PROJECTS__</h1>
+										<div className='home_project1'>
+												<h3>EXAMPLE</h3>	
+										</div>
+
+
                 </div>
             </div>
         </div>
