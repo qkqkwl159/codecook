@@ -1,15 +1,17 @@
 import React from 'react';
 import './Home.css';
 import Todo from './todoList/Todo';
+import Project1 from './Pro1';
+import Project2 from './Pro2';
 import myimg from './my_profile.jpg';
-
-
+import { Router } from 'react-router-dom';
 
 
 function Home() {
     return (
         <div className='home'>
             <div className='home_container'>
+
                 <div className='home_profile'>
                     <h1>MY_PROFILE__</h1>
                     <img
@@ -28,17 +30,15 @@ function Home() {
                     </span>
                 </div>
 
+                <div className='home_projects'>
+                    <h1>PROJECTS__</h1>
+                    <Project1/>
+                    <Project2/>
+                </div>
                 <div className='home_Todo'>
                     <Todo/>
                 </div>
-                <div className='home_projects'>
-                    <h1>PROJECTS__</h1>
-										<div className='home_project1'>
-												<h3>EXAMPLE</h3>	
-										</div>
 
-
-                </div>
             </div>
         </div>
     );

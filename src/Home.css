@@ -1,6 +1,6 @@
 * {
   margin: 0px;
-  background: repeating-linear-gradient(rgb(255, 255, 240), #fffff0 20px, #000 21px);
+  /* background: repeating-linear-gradient(rgb(255, 255, 240), #fffff0 20px, #000 21px); */
 
 }
 
@@ -11,7 +11,7 @@
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
+  width: 1200px;
   height: auto;
   box-shadow: 20px 10px 10px rgb(156, 152, 152);
   border-radius: 3%;
@@ -24,7 +24,7 @@
   margin-top: 70px;
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
+  width: 1200px;
   height: auto;
   box-shadow: 20px 10px 10px rgb(156, 152, 152);
   border-radius: 3%;
@@ -37,7 +37,7 @@
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
+  width: 1200px;
   height: auto;
   box-shadow: 20px 10px 10px rgb(156, 152, 152);
   border-radius: 3%;

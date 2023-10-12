@@ -1,0 +1,37 @@
+.folding-menu > img
+{
+    width: 400px;
+}
+
+
+.app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  button {
+    margin-bottom: 20px;
+    height: 50px;
+    background-color: white;
+    border: 0.5px solid black;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+
+  }
+  
+  .folding-menu {
+    padding: 20px;
+  }
+  
+  .folding-menu ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .folding-menu li {
+    margin-bottom: 10px;
+  }
